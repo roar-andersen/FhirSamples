@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\FhirValidation\\FhirValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1305ABEF-AE84-47EC-8FEB-DD295349FC07}|FhirValidation\\FhirValidation.csproj|c:\\src\\FhirValidation\\FhirValidation\\FhirValidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1305ABEF-AE84-47EC-8FEB-DD295349FC07}|FhirValidation\\FhirValidation.csproj|solutionrelative:FhirValidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1305ABEF-AE84-47EC-8FEB-DD295349FC07}|FhirValidation\\FhirValidation.csproj|c:\\src\\FhirValidation\\FhirValidation\\FhirValidation\\profiles\\structuredefinition-lmdi-legemiddeladministrasjon.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1305ABEF-AE84-47EC-8FEB-DD295349FC07}|FhirValidation\\FhirValidation.csproj|solutionrelative:FhirValidation\\profiles\\structuredefinition-lmdi-legemiddeladministrasjon.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1305ABEF-AE84-47EC-8FEB-DD295349FC07}|FhirValidation\\FhirValidation.csproj|c:\\src\\FhirValidation\\FhirValidation\\FhirValidation\\FhirValidation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1305ABEF-AE84-47EC-8FEB-DD295349FC07}|FhirValidation\\FhirValidation.csproj|solutionrelative:FhirValidation\\FhirValidation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044004}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044002}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StructureDefinition-lmdi-legemiddeladministrasjon.json",
+              "DocumentMoniker": "C:\\src\\FhirValidation\\FhirValidation\\FhirValidation\\profiles\\StructureDefinition-lmdi-legemiddeladministrasjon.json",
+              "RelativeDocumentMoniker": "FhirValidation\\profiles\\StructureDefinition-lmdi-legemiddeladministrasjon.json",
+              "ToolTip": "C:\\src\\FhirValidation\\FhirValidation\\FhirValidation\\profiles\\StructureDefinition-lmdi-legemiddeladministrasjon.json",
+              "RelativeToolTip": "FhirValidation\\profiles\\StructureDefinition-lmdi-legemiddeladministrasjon.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T16:16:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FhirValidation",
+              "DocumentMoniker": "C:\\src\\FhirValidation\\FhirValidation\\FhirValidation\\FhirValidation.csproj",
+              "RelativeDocumentMoniker": "FhirValidation\\FhirValidation.csproj",
+              "ToolTip": "C:\\src\\FhirValidation\\FhirValidation\\FhirValidation\\FhirValidation.csproj",
+              "RelativeToolTip": "FhirValidation\\FhirValidation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-29T15:25:55.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\src\\FhirValidation\\FhirValidation\\FhirValidation\\Program.cs",
+              "RelativeDocumentMoniker": "FhirValidation\\Program.cs",
+              "ToolTip": "C:\\src\\FhirValidation\\FhirValidation\\FhirValidation\\Program.cs",
+              "RelativeToolTip": "FhirValidation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T15:25:44.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 108,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ba2fc7a-405e-5c33-ae0c-f01f6ad6d6d7}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5726b0e3-1012-5233-81f9-d1fad48e7a56}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
